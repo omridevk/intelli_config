@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern=".bablerc" type="JSON" />
+      <mapping ext="old" type="JSON" />
+      <mapping pattern="mediaspace" type="PHP" />
+      <mapping pattern="modules_blob" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

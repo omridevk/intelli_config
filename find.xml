@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/Users/OmriK/Public/web/work/mediaspace/application/models/Entry.php'" />
+    <option name="defaultScopeName" value="File '/Users/OmriK/Public/web/work/mediaspace/application/models/Entry.php'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/OmriK/Public/web/work/mediaspace/application/models/Entry.php'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>
