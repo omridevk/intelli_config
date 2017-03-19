@@ -54,7 +54,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="CLASS_NAME_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -409,7 +408,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
@@ -513,7 +511,6 @@
         <option name="FOREGROUND" value="6e9cbe" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -910,7 +907,6 @@
         <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
@@ -1014,8 +1010,6 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES" baseAttributes="TEXT" />
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />

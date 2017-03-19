@@ -20,7 +20,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="f56991" />
     <option name="FILESTATUS_MODIFIED" value="d1f2a5" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="d1f2a5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="d1f2a5" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -710,9 +709,6 @@
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
