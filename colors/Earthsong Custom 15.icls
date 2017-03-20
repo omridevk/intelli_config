@@ -1,11 +1,4 @@
 <scheme name="Earthsong Custom 15" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2017-03-19T12:41:08</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-03-19T12:42:15</property>
-    <property name="originalScheme">Earthsong Custom</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
