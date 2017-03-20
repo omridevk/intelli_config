@@ -1,8 +1,0 @@
-<templateSet group="PHP">
-  <template name="kmstr" value="Kms_Log::trace(&quot;$MESSAGE$&quot;);" description="Add Kms_Log::trace inline" toReformat="false" toShortenFQNames="true">
-    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
