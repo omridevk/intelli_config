@@ -14,6 +14,7 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.php|*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
