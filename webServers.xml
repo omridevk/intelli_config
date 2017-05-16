@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="58af6be8-52e5-4d57-9953-f838d71d04a1" name="MediaSpace" url="http://mediaspace.dev.com">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="58af6be8-52e5-4d57-9953-f838d71d04a1" name="MediaSpace" url="http://kms.dev.com">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Public/web/work/mediaspace/public" accessType="MOUNT" />
       </webServer>
       <webServer id="6ebea31d-7093-493b-a30c-1be398917cf6" name="laravel.dev.com" url="http://laravel.dev.com">
         <fileTransfer accessType="LOCAL" />
