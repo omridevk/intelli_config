@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/OmriK/Public/web/work/mediaspace/application/models/Entry.php'" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +19,7 @@
       <mask>*.php|*.phtml</mask>
       <mask>*.php</mask>
       <mask>*.phtml</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
