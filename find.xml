@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
     <option name="defaultScopeName" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,10 +14,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php|*.phtml</mask>
-      <mask>*.php</mask>
       <mask>*.phtml</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
