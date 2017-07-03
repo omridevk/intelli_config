@@ -4,11 +4,12 @@
     <option name="customScope" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
     <option name="defaultScopeName" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,9 +21,9 @@
       <mask>*.mxml</mask>
       <mask>*.php|*.phtml</mask>
       <mask>*.phtml</mask>
-      <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
