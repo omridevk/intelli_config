@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../library/Kaltura/Client - [mediaspace]'" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,10 +20,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php|*.phtml</mask>
-      <mask>*.phtml</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.less</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
