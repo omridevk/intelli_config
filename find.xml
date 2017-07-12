@@ -19,6 +19,7 @@
       <mask>*.php</mask>
       <mask>*.less</mask>
       <mask>*.phtml</mask>
+      <mask>ajax.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
