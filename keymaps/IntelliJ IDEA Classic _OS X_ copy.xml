@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
   <action id="Inline" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -26,4 +29,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
