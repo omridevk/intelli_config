@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile" type="Docker file" />
       <mapping pattern=".bablerc" type="JSON" />
       <mapping ext="old" type="JSON" />
       <mapping pattern="mediaspace" type="PHP" />
